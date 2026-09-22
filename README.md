@@ -1,6 +1,18 @@
 # Quality Over Quantity: Synthetic Breast Cancer Data–Report Pairs for Clinical Information Extraction
 This repository contains the code and resources used to generate, filter, fine-tune, and evaluate synthetic pathology reports from structured diagnostic variables. 
 
+Official implementation of the paper:
+
+**Generating Linguistically Diverse and Semantically Faithful Patient Reports**
+Alejandra Lorenzo, Adrien Coulet and Claire Gardent
+Accepted at **AACL-IJCNLP, 2026**
+
+This repository contains the code and resources used to generate, filter,
+fine-tune, and evaluate synthetic pathology reports from structured
+diagnostic variables.
+
+
+
 The repository supports two main experimental pipelines:
 
 1. **Synthetic pathology report generation** from structured tabular variables.
